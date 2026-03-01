@@ -2,4 +2,4 @@
 Interactive Power BI dashboard for brand performance analysis
 ## Dashboard Preview
 
-(dashboard.png.png)
+![Dashboard](dashboard.png.png)
